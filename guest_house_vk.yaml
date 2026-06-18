@@ -1,0 +1,27 @@
+# источник ВКонтакте для ниши гостевые дома
+# нужен бесплатный токен доступа ВК (см. инструкцию ниже / в доке).
+
+access_token: "vk1.a.kwKOAMg3EbCUOTyCEP5o5hOyuNHZtaiCryaOltT2p1BUkBtoSHVwqnKpz8Xv8aDrdwN2l37NpFtgMp4EQuxMwNlQE2iJL1EDnHlnnQEimnlSZuHa__HIw4Bc0FStxdvc6rBwGxGe0qP5JmunbV8IKwxtNwJOj3gTMtFWMmdzPAVFiJ52WjteZkkVIGpOakAP9-1ufI7TU-5FhiE8m7KdPQ"   # обязательно
+api_version: "5.199"
+query: "гостевой дом"             # что ищем в названии сообщества
+per_city: 100                     # сколько сообществ брать на город (макс 1000)
+
+cities:
+  - Сочи
+  - Адлер
+  - Анапа
+  - Геленджик
+  - Ялта
+  - Симферополь
+  - Кисловодск
+  - Калининград
+  - Санкт-Петербург
+  - Казань
+  - Москва
+
+# КАК ПОЛУЧИТЬ ТОКЕН (бесплатно):
+# 1. зайти на vk.com/apps?act=manage -> "Создать" -> тип "Standalone (приложение)".
+# 2. в настройках приложения включить его, скопировать "ID приложения".
+# 3. открыть в браузере ссылку (подставив свой ID вместо XXXX):
+#    https://oauth.vk.com/authorize?client_id=XXXX&display=page&scope=groups&response_type=token&v=5.199
+# 4. разрешить доступ -> в адресной строке появится access_token=... -> скопировать его сюда.

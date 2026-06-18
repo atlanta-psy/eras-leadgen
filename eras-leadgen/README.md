@@ -15,6 +15,7 @@ pip install -r requirements.txt
 ## Конвейер
 ```
 python leadgen.py collect --niche guest_house
+python vk_collect.py --niche guest_house     # по желанию: ВК-сообщества (нужен токен ВК)
 python enrich.py  --niche guest_house
 python offer.py   --niche guest_house
 python send_manager.py send-email --niche guest_house --dry-run

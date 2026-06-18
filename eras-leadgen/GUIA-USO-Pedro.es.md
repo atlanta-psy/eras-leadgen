@@ -12,6 +12,11 @@ Todas las órdenes se ejecutan desde la carpeta del agente (`cd C:\leadgen`). El
 :: 1. Recoger leads desde OpenStreetMap por nicho
 py leadgen.py collect --niche guest_house
 
+:: 1b. (opcional) Ampliar con comunidades de VK. Requiere un token gratuito en configs\guest_house_vk.yaml
+py vk_collect.py --niche guest_house
+
+:: (2GIS NO se usa: su API es de pago, por suscripción. El módulo gis_collect.py queda para el futuro.)
+
 :: 2. Enriquecer: entrar en las webs, encontrar email/Telegram/VK, detectar si ya tienen reservas, quitar duplicados
 py enrich.py --niche guest_house
 
