@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T17:51:07+00:00",
+  "collected_at": "2026-06-05T17:51:07+00:00",
+  "video_id": "OTrmXal1Fcg",
+  "video_url": "https://www.youtube.com/watch?v=OTrmXal1Fcg",
+  "title": "Как правильно отказывать? Как правильно говорить НЕТ",
+  "channel_name": "МАРГУЛАН СЕЙСЕМБАЙ",
+  "channel_url": "https://www.youtube.com/@Margulan.Seissembai",
+  "comments_count": 316,
+  "thread_roots_count": 229,
+  "reply_rows_count": 87,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 305,
+    "new": 316
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}

@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T17:36:31+00:00",
+  "collected_at": "2026-06-05T17:36:31+00:00",
+  "video_id": "ynXhePMRqLw",
+  "video_url": "https://www.youtube.com/watch?v=ynXhePMRqLw",
+  "title": "Personal boundaries - what are personal boundaries and why defend them?",
+  "channel_name": "FreshLife28",
+  "channel_url": "https://www.youtube.com/@Freshlife28",
+  "comments_count": 402,
+  "thread_roots_count": 302,
+  "reply_rows_count": 100,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 392,
+    "new": 402
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}

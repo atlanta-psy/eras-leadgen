@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T17:04:26+00:00",
+  "collected_at": "2026-06-05T17:04:26+00:00",
+  "video_id": "kK9wOwSV5S0",
+  "video_url": "https://www.youtube.com/watch?v=kK9wOwSV5S0",
+  "title": "Как по-настоящему полюбить себя",
+  "channel_name": "Anna Roudakova",
+  "channel_url": "https://www.youtube.com/@anna.roudakova",
+  "comments_count": 164,
+  "thread_roots_count": 137,
+  "reply_rows_count": 27,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 149,
+    "new": 164
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}

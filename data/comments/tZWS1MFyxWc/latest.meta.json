@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T17:43:10+00:00",
+  "collected_at": "2026-06-05T17:43:10+00:00",
+  "video_id": "tZWS1MFyxWc",
+  "video_url": "https://www.youtube.com/watch?v=tZWS1MFyxWc",
+  "title": "How to learn to say no without fear and guilt? The price of adapting",
+  "channel_name": "Психология с Анеттой Орловой",
+  "channel_url": "https://www.youtube.com/@AnettaOrlova",
+  "comments_count": 124,
+  "thread_roots_count": 86,
+  "reply_rows_count": 38,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 123,
+    "new": 124
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}

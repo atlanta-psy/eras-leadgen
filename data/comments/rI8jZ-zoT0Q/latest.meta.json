@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T17:20:29+00:00",
+  "collected_at": "2026-06-05T17:20:29+00:00",
+  "video_id": "rI8jZ-zoT0Q",
+  "video_url": "https://www.youtube.com/watch?v=rI8jZ-zoT0Q",
+  "title": "КАК Я ЗАЩИТИЛ ЛИЧНЫЕ ГРАНИЦЫ - Пошаговый гайд - ПОЛУДЕННЫЙ ПОДКАСТ - Константин Потапов",
+  "channel_name": "Константин Потапов",
+  "channel_url": "https://www.youtube.com/@konstantinpotapovvpotoke",
+  "comments_count": 102,
+  "thread_roots_count": 63,
+  "reply_rows_count": 39,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 94,
+    "new": 102
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}

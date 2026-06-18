@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T18:00:54+00:00",
+  "collected_at": "2026-06-05T18:00:54+00:00",
+  "video_id": "lCfnBpmbJ3g",
+  "video_url": "https://www.youtube.com/watch?v=lCfnBpmbJ3g",
+  "title": "How I Destroyed Self-Sabotage | The Powerful Practice That Changed My Life | Freedom Is the Highe...",
+  "channel_name": "Сила. Свобода. Успех.",
+  "channel_url": "https://www.youtube.com/@Mind.strategy",
+  "comments_count": 123,
+  "thread_roots_count": 81,
+  "reply_rows_count": 42,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 111,
+    "new": 123
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}

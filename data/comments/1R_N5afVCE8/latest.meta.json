@@ -1,0 +1,21 @@
+{
+  "fetched_at": "2026-06-05T18:12:27+00:00",
+  "collected_at": "2026-06-05T18:12:27+00:00",
+  "video_id": "1R_N5afVCE8",
+  "video_url": "https://www.youtube.com/watch?v=1R_N5afVCE8",
+  "comments_count": 0,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "status": "timeout",
+  "errors": {
+    "top": "Command '['/Library/Frameworks/Python.framework/Versions/3.14/bin/yt-dlp', '--skip-download', '--write-info-json', '--write-comments', '--extractor-args', 'youtube:comment_sort=top', '-o', '/var/folders/34/8xxz40m55xj6dgc6nz8zvqj00000gn/T/yt-comments-qsc8uh5n/%(id)s.%(ext)s', 'https://www.youtube.com/watch?v=1R_N5afVCE8']' timed out after 40.0 seconds",
+    "new": "Command '['/Library/Frameworks/Python.framework/Versions/3.14/bin/yt-dlp', '--skip-download', '--write-info-json', '--write-comments', '--extractor-args', 'youtube:comment_sort=new', '-o', '/var/folders/34/8xxz40m55xj6dgc6nz8zvqj00000gn/T/yt-comments-x1jf1eim/%(id)s.%(ext)s', 'https://www.youtube.com/watch?v=1R_N5afVCE8']' timed out after 40.0 seconds"
+  },
+  "per_sort_status": {
+    "top": "timeout",
+    "new": "timeout"
+  },
+  "source": "yt_dlp_comments"
+}

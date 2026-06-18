@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T17:13:07+00:00",
+  "collected_at": "2026-06-05T17:13:07+00:00",
+  "video_id": "kByQrxoTjwQ",
+  "video_url": "https://www.youtube.com/watch?v=kByQrxoTjwQ",
+  "title": "ВОТ что произойдёт, если вы поставите себя на первое место - Карл Юнг",
+  "channel_name": " ЛОМАЯ КОНЦЕПЦИИ",
+  "channel_url": "https://www.youtube.com/@ЛОМАЯКОНЦЕПЦИИ-ы5д",
+  "comments_count": 389,
+  "thread_roots_count": 245,
+  "reply_rows_count": 144,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 360,
+    "new": 389
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}

@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T17:50:57+00:00",
+  "collected_at": "2026-06-05T17:50:57+00:00",
+  "video_id": "50Z7VSxaNOw",
+  "video_url": "https://www.youtube.com/watch?v=50Z7VSxaNOw",
+  "title": "Как говорить НЕТ",
+  "channel_name": "Sunnat Shukhratov",
+  "channel_url": "https://www.youtube.com/@sunnatshukhratov",
+  "comments_count": 19,
+  "thread_roots_count": 13,
+  "reply_rows_count": 6,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 17,
+    "new": 19
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}

@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T17:16:45+00:00",
+  "collected_at": "2026-06-05T17:16:45+00:00",
+  "video_id": "UXcGx4MAcsw",
+  "video_url": "https://www.youtube.com/watch?v=UXcGx4MAcsw",
+  "title": "как спокойно выстроить личные границы *с примерами* | после этих техник тебя начнут уважать",
+  "channel_name": "Elizaveta Brain",
+  "channel_url": "https://www.youtube.com/@elizavetabrain",
+  "comments_count": 74,
+  "thread_roots_count": 50,
+  "reply_rows_count": 24,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 73,
+    "new": 74
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}

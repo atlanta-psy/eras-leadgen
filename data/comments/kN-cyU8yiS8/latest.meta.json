@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T17:46:38+00:00",
+  "collected_at": "2026-06-05T17:46:38+00:00",
+  "video_id": "kN-cyU8yiS8",
+  "video_url": "https://www.youtube.com/watch?v=kN-cyU8yiS8",
+  "title": "How to learn to say \"no\"",
+  "channel_name": "Правое полушарие Интроверта",
+  "channel_url": "https://www.youtube.com/@artforintrovert",
+  "comments_count": 186,
+  "thread_roots_count": 105,
+  "reply_rows_count": 81,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 177,
+    "new": 186
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}

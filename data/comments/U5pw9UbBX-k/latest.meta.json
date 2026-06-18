@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T17:34:36+00:00",
+  "collected_at": "2026-06-05T17:34:36+00:00",
+  "video_id": "U5pw9UbBX-k",
+  "video_url": "https://www.youtube.com/watch?v=U5pw9UbBX-k",
+  "title": "Вебинар \"Личностные границы\". Безграничность, слияние, ограниченность и индивидуальность.",
+  "channel_name": "Ольга Демчук",
+  "channel_url": "https://www.youtube.com/@OlgaDemchuk",
+  "comments_count": 620,
+  "thread_roots_count": 539,
+  "reply_rows_count": 81,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 608,
+    "new": 620
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}

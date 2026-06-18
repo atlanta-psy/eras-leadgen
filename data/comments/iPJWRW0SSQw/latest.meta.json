@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T17:17:08+00:00",
+  "collected_at": "2026-06-05T17:17:08+00:00",
+  "video_id": "iPJWRW0SSQw",
+  "video_url": "https://www.youtube.com/watch?v=iPJWRW0SSQw",
+  "title": "Why You Shouldn't Sniff People: Personal Boundaries and How to Deal with Them",
+  "channel_name": "Правое полушарие Интроверта",
+  "channel_url": "https://www.youtube.com/@artforintrovert",
+  "comments_count": 172,
+  "thread_roots_count": 127,
+  "reply_rows_count": 45,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 150,
+    "new": 172
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}

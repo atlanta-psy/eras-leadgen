@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T17:59:34+00:00",
+  "collected_at": "2026-06-05T17:59:34+00:00",
+  "video_id": "f0fWXz-oI50",
+  "video_url": "https://www.youtube.com/watch?v=f0fWXz-oI50",
+  "title": "Самосаботаж | 100 КАРЬЕРНЫХ ОТВЕТОВ #40",
+  "channel_name": "KSENIA AGEEVA: Career, Values & Brand",
+  "channel_url": "https://www.youtube.com/@KseniAgeeva",
+  "comments_count": 29,
+  "thread_roots_count": 16,
+  "reply_rows_count": 13,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 29,
+    "new": 29
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}

@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T17:47:14+00:00",
+  "collected_at": "2026-06-05T17:47:14+00:00",
+  "video_id": "o1NvzZULUTQ",
+  "video_url": "https://www.youtube.com/watch?v=o1NvzZULUTQ",
+  "title": "НЕ НУЖНО БЫТЬ УДОБНЫМ. КАК ГОВОРИТЬ НЕТ? | РАДИСЛАВ ГАНДАПАС",
+  "channel_name": "Радислав Гандапас - лидерские стратегии",
+  "channel_url": "https://www.youtube.com/@RadislavGandapas",
+  "comments_count": 101,
+  "thread_roots_count": 87,
+  "reply_rows_count": 14,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 95,
+    "new": 101
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}

@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T17:54:50+00:00",
+  "collected_at": "2026-06-05T17:54:50+00:00",
+  "video_id": "D7CGfLKF1gM",
+  "video_url": "https://www.youtube.com/watch?v=D7CGfLKF1gM",
+  "title": "3 REASONS FOR SELF-SABOTAGE. Find Yours!",
+  "channel_name": "Луиза, че делать ?!",
+  "channel_url": "https://www.youtube.com/@Луизачеделать",
+  "comments_count": 249,
+  "thread_roots_count": 188,
+  "reply_rows_count": 61,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 239,
+    "new": 249
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}

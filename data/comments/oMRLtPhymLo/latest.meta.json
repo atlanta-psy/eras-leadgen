@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T17:58:24+00:00",
+  "collected_at": "2026-06-05T17:58:24+00:00",
+  "video_id": "oMRLtPhymLo",
+  "video_url": "https://www.youtube.com/watch?v=oMRLtPhymLo",
+  "title": "Самосаботаж. Принимаем и прорабатываем Саботажника. Упражнение эффект уже с первой практики.",
+  "channel_name": "Евгений Декань",
+  "channel_url": "https://www.youtube.com/@individual_dekan",
+  "comments_count": 257,
+  "thread_roots_count": 167,
+  "reply_rows_count": 90,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 257,
+    "new": 256
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}

@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T17:57:37+00:00",
+  "collected_at": "2026-06-05T17:57:37+00:00",
+  "video_id": "HJvgojwKEZQ",
+  "video_url": "https://www.youtube.com/watch?v=HJvgojwKEZQ",
+  "title": "Как за 50 секунд разделаться с самосаботажем и прокрастинацией",
+  "channel_name": "Евгений Дейнеко",
+  "channel_url": "https://www.youtube.com/@DeynekoEvgen",
+  "comments_count": 227,
+  "thread_roots_count": 116,
+  "reply_rows_count": 111,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 207,
+    "new": 227
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}

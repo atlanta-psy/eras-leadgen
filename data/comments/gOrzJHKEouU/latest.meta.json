@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T17:47:31+00:00",
+  "collected_at": "2026-06-05T17:47:31+00:00",
+  "video_id": "gOrzJHKEouU",
+  "video_url": "https://www.youtube.com/watch?v=gOrzJHKEouU",
+  "title": "Как научиться отказывать людям | Почему важно уметь говорить НЕТ - Михаил Лабковский",
+  "channel_name": "ПСИХОЛОГИЯ СЧАСТЛИВОЙ ЖИЗНИ",
+  "channel_url": "https://www.youtube.com/@ПСИХОЛОГИЯСЧАСТЛИВОЙЖИЗНИ",
+  "comments_count": 76,
+  "thread_roots_count": 47,
+  "reply_rows_count": 29,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 73,
+    "new": 76
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}

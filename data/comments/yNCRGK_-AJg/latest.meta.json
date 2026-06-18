@@ -1,0 +1,23 @@
+{
+  "fetched_at": "2026-06-05T17:56:21+00:00",
+  "collected_at": "2026-06-05T17:56:21+00:00",
+  "video_id": "yNCRGK_-AJg",
+  "video_url": "https://www.youtube.com/watch?v=yNCRGK_-AJg",
+  "title": "САМОСАБОТАЖ И СТРАХ РАСПЛАТЫ ЗА СЧАСТЬЕ. #Адакофе 119",
+  "channel_name": "АДА КОНДЭ",
+  "channel_url": "https://www.youtube.com/@ada_conde",
+  "comments_count": 520,
+  "thread_roots_count": 440,
+  "reply_rows_count": 80,
+  "sort_modes": [
+    "top",
+    "new"
+  ],
+  "per_sort_counts": {
+    "top": 518,
+    "new": 520
+  },
+  "status": "ok",
+  "errors": {},
+  "source": "yt_dlp_comments"
+}
